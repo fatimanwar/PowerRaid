@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/flairyparagon/AndroidStudioProjects/PowerTutor-master/app/libs/achartengine-1.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2bb0af9f390c0edd4d7d95f613f38da3abe0144">
+        <dex dex="/Users/flairyparagon/AndroidStudioProjects/PowerTutor-master/app/build/intermediates/pre-dexed/debug/achartengine-1.0.0-1b2ab8434b71a012f0ae6ae1c24a80a6c06bf616.jar" />
+    </item>
+
+</items>
