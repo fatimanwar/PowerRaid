@@ -15,6 +15,7 @@ Power Profile & Log App:
 1. PowerTutor-master
 
 Training Classifier:
+
 1. Regression_model.R
 
 
