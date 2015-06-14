@@ -9,6 +9,7 @@ These applications are categorized as follows,
 3. PaketFloodApp
 
 NOTE: The apks for these Apps may or may not work for you depending upon your settings. Note that these Apps are only for specific test purposes and some parameters need to be changed in their code for proper functionality at your side.
+The apks are stored at "app/build/outputs/apk/app-debug.apk" in the respective App folder.
 
 - Power Profile & Log App:
 
