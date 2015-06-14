@@ -16,6 +16,7 @@ The apks are stored at "app/build/outputs/apk/app-debug.apk" in the respective A
 1. PowerTutor-master
 
 
+
 - Training Classifier:
 
 1. Regression_model.R
