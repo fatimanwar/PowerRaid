@@ -1,24 +1,22 @@
 # PowerRaid
-There are multiple application codes under powerraid.
-These applications are categorized as follows,
+There are multiple categories of code under powerraid,
 
-- Android based Malicious Apps:
+1. Android based Malicious Apps:
 
-1. MailSpy
-2. LocationSpy
-3. PaketFloodApp
+  - MailSpy
+  - LocationSpy
+  - PaketFloodApp
 
 NOTE: The apks for these Apps may or may not work for you depending upon your settings. Note that these Apps are only for specific test purposes and some parameters need to be changed in their code for proper functionality at your side.
 The apks are stored at "app/build/outputs/apk/app-debug.apk" in the respective App folder.
 
-- Power Profile & Log App:
+2. Power Profile & Log App:
 
-1. PowerTutor-master
+  - PowerTutor-master
 
 
+3. Training Classifier:
 
-- Training Classifier:
-
-1. poweraid_classification_model.R
+  - poweraid_classification_model.R
 
 
