@@ -19,6 +19,6 @@ The apks are stored at "app/build/outputs/apk/app-debug.apk" in the respective A
 
 - Training Classifier:
 
-1. Regression_model.R
+1. poweraid_classification_model.R
 
 
